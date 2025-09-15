@@ -19,6 +19,7 @@ This project is part of the **Agentic AI Challenge**. It demonstrates an intelli
 ## Screenshot
 ![image alt](https://github.com/rajsingh565/Web_Crawler_Agent/blob/c7c890b3073b9d531b2c53c734dc407efa222fd3/Screenshot1.png)
 ![image_alt](https://github.com/rajsingh565/Web_Crawler_Agent/blob/1e04b3a0ff97286391ffd17b0bad44e7d0f1cae6/Screenshot2.png)
+![image_alt](https://github.com/rajsingh565/Web_Crawler_Agent/blob/d17e2ea7bb96cec2d93431ca1111e4bd662a7f26/Screenshot3.png)
 ## 💡 Features
 - Simple and intuitive Streamlit interface
 - Real-time crawling and content extraction
