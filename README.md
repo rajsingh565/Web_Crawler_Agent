@@ -41,6 +41,6 @@ streamlit run app.py
 Enter a website URL in the input field and click **Crawl Website**. The agent will fetch the page and display structured content in various tabs.
 
 ## 📬 Contact & Credits
-Developed by **Raj Singh** for the Agentic AI Challenge.
+Developed by **Raj Singh** 
 
 Feel free to contribute or raise issues!
