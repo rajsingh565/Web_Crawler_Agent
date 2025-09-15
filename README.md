@@ -16,6 +16,9 @@ This project is part of the **Agentic AI Challenge**. It demonstrates an intelli
 - BeautifulSoup / Playwright / Selenium
 - Python 3
 
+## Screenshot
+![image alt](https://github.com/rajsingh565/Web_Crawler_Agent/blob/c7c890b3073b9d531b2c53c734dc407efa222fd3/Screenshot1.png)
+
 ## 💡 Features
 - Simple and intuitive Streamlit interface
 - Real-time crawling and content extraction
